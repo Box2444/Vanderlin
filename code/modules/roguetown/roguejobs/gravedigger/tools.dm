@@ -15,7 +15,7 @@
 	experimental_onhip = FALSE
 	experimental_onback = FALSE
 	sharpness = IS_BLUNT
-	wdefense = MEDIOCHRE_PARRY
+	wdefense = MEDIOCRE_PARRY
 	wlength = WLENGTH_LONG
 	w_class = WEIGHT_CLASS_BULKY
 	slot_flags = ITEM_SLOT_BACK

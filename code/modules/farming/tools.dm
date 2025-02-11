@@ -232,7 +232,7 @@
 
 	force = 5
 	force_wielded = 7
-	wdefense = MEDIOCHRE_PARRY
+	wdefense = MEDIOCRE_PARRY
 	wlength = 66
 	var/time_multiplier = 1
 	max_integrity = 150
@@ -362,7 +362,7 @@
 
 	force = 10
 	force_wielded = 22
-	wdefense = MEDIOCHRE_PARRY
+	wdefense = MEDIOCRE_PARRY
 	wlength = WLENGTH_LONG
 
 /obj/item/rogueweapon/pitchfork/getonmobprop(tag)
