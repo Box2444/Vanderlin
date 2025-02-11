@@ -197,7 +197,7 @@
 	max_integrity = 500
 	blade_dulling = DULLING_BASH
 	sellprice = 150 // A noble collector would love to get their hands on one of these
-	smeltresult = null // No bronze ingots yet
+	smeltresult = /obj/item/ingot/bronze
 
 /obj/item/rogueweapon/shield/tower/hoplite/getonmobprop(tag)
 	. = ..()

@@ -478,7 +478,7 @@
 	dropshrink = 0.75
 	bigboy = TRUE // WHY DOES THIS FUCKING VARIABLE CONTROL WHETHER THE BLOOD OVERLAY WORKS ON 64x64 WEAPONS
 	slot_flags = ITEM_SLOT_BACK|ITEM_SLOT_HIP
-	smeltresult = null // No bronze ingots yet
+	smeltresult = /obj/item/ingot/bronze
 	max_blade_int = 300
 	max_integrity = 300
 	minstr = 10 // Even though it's technically one-handed, you gotta have some muscle to wield this thing
